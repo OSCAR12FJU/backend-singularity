@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Oscar ",
+      "lastname": "Flores",
+      "email": "floresquispeoscar109@gmail.com",
+      "nacionality": "Argentino",
+      "password": "Fuerzaabasto1@"
+    },
+    {
+      "id": 2,
+      "name": "Rocio",
+      "lastname": "Loza",
+      "email": "rocioloza@hotmail.com",
+      "nacionality": "Argentina",
+      "password": "RocioLoza12@"
+    }
+  ]
+}
